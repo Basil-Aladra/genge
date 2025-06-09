@@ -1,0 +1,15 @@
+{
+    "header": {
+        "title": "Welcome to the Global Header",
+        "subtitle": "This is a subtitle for the global header"
+    },
+    
+        "home": {
+            "title": "Genge Painting",
+            "descr": "Specialists in car and heavy equipment painting",
+            "button_call": "call me",
+            "button_location": "location"
+
+        }
+    
+}

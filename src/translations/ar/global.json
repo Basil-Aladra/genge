@@ -1,0 +1,15 @@
+{
+    "header": {
+        "title": "Welcome to the Global Header",
+        "subtitle": "This is a subtitle for the global header"
+    },
+    
+        "home": {
+            "title": "Genge Painting",
+            "descr": "متخصصون في دهان السيارات والمعدات الثقيلة",
+            "button_call": "اتصل بنا",
+            "button_location": "الموقع"
+
+        }
+    
+}
